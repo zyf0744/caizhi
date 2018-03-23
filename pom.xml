@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v3_5_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jeecms</groupId>
-  <artifactId>jeecmsv9f</artifactId>
+  <artifactId>caizhi</artifactId>
   <packaging>war</packaging>
   <version>9.0</version>
   <url>http://www.jeecms.com</url>
-  <name>jeecmsv9f</name>
+  <name>caizhi</name>
   <organization>
 	<name>jeecms</name>
 	<url>http://www.jeecms.com/</url>

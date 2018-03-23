@@ -33,14 +33,17 @@ $(function() {
     <a class="logo" href="${base}/"></a>
     [#include "../include/nav.html"]
     <div class="header-r">     
-      <div class="search">
+    <!--   <div class="search">
         <form action="${base}/search.jspx" target="_blank" name="searchForm" id="searchForm">
         <input type="text" name="q" value="${oldq!}"   maxlength="50" autocomplete="off" class="searchCon" style="width:202px;">
         <input type="hidden" name="token" id="token" value="${token!}" />
         <input type="button" value="" class="searchMenu" onclick="query()" >
         </form>
-      </div>      
-      <div id="loginCsiDiv" style="float:left;"></div>
+      </div>     -->  
+      <!-- <div id="loginCsiDiv" style="float:left;"></div> -->
+      
+      <div> 小程序二维码</div>
+    
 	  <script type="text/javascript">
 		$(function(){
 			[#if site.config.ssoEnable]
