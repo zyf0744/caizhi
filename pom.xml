@@ -8,7 +8,7 @@
   <url>http://www.jeecms.com</url>
   <name>caizhi</name>
   <organization>
-	<name>jeecms</name>
+	<name>caizhi</name>
 	<url>http://www.jeecms.com/</url>
   </organization>
   <properties>
@@ -784,7 +784,7 @@
   </dependencies>
   
   <build>
-    <finalName>jeecmsv9f</finalName>
+    <finalName>caizhi</finalName>
     <plugins>
     	<!-- 指定jdk1.7编译，否则maven update 可能调整jdk-->
     	<plugin>  
